@@ -17,13 +17,22 @@
         "asexual": {},
         "bisexual": {},
         "enby": {},
+        "femboy": {
+          "author": "0Szysza"
+        },
         "fluid": {},
         "gay": {},
         "heterosexual": {},
         "intersex": {},
         "lesbian": {},
         "pansexual": {},
-        "trans": {}
+        "trans": {},
+        "transfeminine": {
+          "author": "0Szysza"
+        },
+        "transmasculine": {
+          "author": "0Szysza"
+        }
       }
     },
     "oak_planks": {

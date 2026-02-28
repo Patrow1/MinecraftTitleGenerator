@@ -35,13 +35,22 @@
         "asexual": {},
         "bisexual": {},
         "enby": {},
+        "femboy": {
+          "author": "0Szysza"
+        },
         "fluid": {},
         "gay": {},
         "heterosexual": {},
         "intersex": {},
         "lesbian": {},
         "pansexual": {},
-        "trans": {}
+        "trans": {},
+        "transfeminine": {
+          "author": "0Szysza"
+        },
+        "transmasculine": {
+          "author": "0Szysza"
+        }
       }
     },
     "oak_planks": {
@@ -57,7 +66,10 @@
         "cherry_planks": {},
         "bamboo_planks": {},
         "crimson_planks": {},
-        "warped_planks": {}
+        "warped_planks": {},
+        "pale_oak_planks": {
+          "author": "0Szysza"
+        }
       }
     },
     "bubbles": {
