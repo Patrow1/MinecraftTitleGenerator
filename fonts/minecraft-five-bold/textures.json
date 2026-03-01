@@ -82,6 +82,9 @@
       "variants": {
         "mob_vote_gold": {}
       }
+    },
+    "netherite": {
+      "author": "Patrow1"
     }
   },
   "overlays": {
